@@ -4,6 +4,7 @@ collection: publications
 category: working_papers
 permalink: /publication/2024-working-production-function
 excerpt: 'We develop a production function estimator for firms competing in multiple destination markets.'
+coauthors: "With Geoffrey Barrows and Ariell Reshef"
 date: 2024-04-01
 venue: 'Working Paper'
 paperurl: 'http://www.parisschoolofeconomics.com/reshef-ariell/papers/BOR_Productivity_RTS_Trade_2024_04_10.pdf'

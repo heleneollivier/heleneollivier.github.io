@@ -34,7 +34,7 @@
 
       {% else %}
         <p style="margin-top: 0.2em;">
-          <em>{{ post.venue }}</em>{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}
+          {% if post.coauthors %}{{ post.coauthors }} — {% endif %}<em>{{ post.venue }}</em>{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}
         </p>
 
         {% if post.excerpt %}
