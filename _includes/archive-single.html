@@ -29,6 +29,9 @@
           <p style="margin-top: 0.2em;"><em>{{ post.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</em></p>
         {% endif %}
 
+      {% elsif post.category == 'books' %}
+        <p style="margin-top: 0.2em;">{{ post.citation }}</p>
+
       {% else %}
         <p style="margin-top: 0.2em;">
           <em>{{ post.venue }}</em>{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}
