@@ -1,0 +1,51 @@
+{% include base_path %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+
+    <h2 class="archive__item-title" itemprop="headline">
+      {% if post.paperurl %}
+        <a href="{{ post.paperurl }}" target="_blank">{{ title }}</a>
+      {% elsif post.link %}
+        <a href="{{ post.link }}">{{ title }}</a>
+      {% else %}
+        {{ title }}
+      {% endif %}
+    </h2>
+
+    {% if post.collection == 'teaching' %}
+      <p>{{ post.type }}, <em>{{ post.venue }}</em>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
+
+    {% elsif post.collection == 'publications' %}
+
+      {% if post.category == 'work_in_progress' %}
+        {% if post.excerpt %}
+          <p style="margin-top: 0.2em;"><em>{{ post.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</em></p>
+        {% endif %}
+
+      {% else %}
+        <p style="margin-top: 0.2em;">
+          <em>{{ post.venue }}</em>{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}
+        </p>
+
+        {% if post.excerpt %}
+          <details>
+            <summary style="cursor: pointer; color: #52adc8;">Abstract</summary>
+            <p class="archive__item-excerpt" itemprop="description" style="margin-top: 0.5em;">{{ post.excerpt | markdownify }}</p>
+          </details>
+        {% endif %}
+
+      {% endif %}
+
+    {% elsif post.date %}
+      <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+    {% endif %}
+
+  </article>
+</div>

@@ -1,0 +1,34 @@
+---
+layout: archive
+title: "Research"
+permalink: /publications/
+author_profile: true
+---
+
+You can also find my articles on <a href="https://scholar.google.com/citations?user=jyx4wGAAAAAJ&hl=en">Google Scholar</a>, <a href="https://www.researchgate.net/profile/Helene_Ollivier">ResearchGate</a>, or <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1009286">SSRN</a>.
+
+{% include base_path %}
+
+<!-- New style rendering if publication categories are defined -->
+{% if site.publication_category %}
+  {% for category in site.publication_category  %}
+    {% assign title_shown = false %}
+    {% for post in site.publications reversed %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h2>{{ category[1].title }}</h2><hr />
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endfor %}
+{% else %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
+
+
+

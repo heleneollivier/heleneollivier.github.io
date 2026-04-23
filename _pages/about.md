@@ -1,0 +1,37 @@
+---
+permalink: /
+title: "Hélène Ollivier"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
+
+I am a Professor at [Paris School of Economics (PSE)](http://www.parisschoolofeconomics.eu/) and a Research Fellow at the [CNRS](http://www.cnrs.fr/) (Centre National de la Recherche Scientifique).
+
+I am Co-Editor at the [Journal of Environmental Economics and Management (JEEM)](https://www.sciencedirect.com/journal/journal-of-environmental-economics-and-management) (from January 2025) and Co-Editor at the [Review of Environmental Economics and Policy (REEP)](https://www.journals.uchicago.edu/toc/reep/current) (from January 2026). From 2020 to 2024, I served as Associate Editor at [Environment and Development Economics](https://www.cambridge.org/core/journals/environment-and-development-economics).
+
+As an Environmental Economist, my main research interests are the evaluation of the effects of environmental policies on manufacturing firms and the effects of environmental shocks (such as air pollution or temperature) in a world where units (firms, countries, agents) interact with each other.
+
+I completed my PhD in 2010 at the [Economics Department at the École Polytechnique](http://www.economie.polytechnique.edu/), under the supervision of [Jean-Marc Bourgeon](http://www.grignon.inra.fr/economie-publique/english/staff/BOURGEON.htm). I was then a Ciriacy-Wantrup Fellow at the [Agricultural and Resource Economics Department](http://are.berkeley.edu/) at UC Berkeley (2010–2012). I defended my HDR in 2018.
+
+[Download CV (PDF)](/files/CV_Helene_Ollivier.pdf){: .btn .btn--info}
+
+---
+
+## News
+
+- **April 2026** – Talk at the Women in Environmental Economics Workshop, Venice
+- **May 2026** – Talk at the Parisian PhD Seminar on Environmental Economics, PSE
+- **June 2026** – Talk at the Nordic Annual Environmental and Resource Economics Conference, Stockholm
+- **October 2025** – Keynote at the Workshop for Young Researchers in Applied Environmental Economics, organized by Francesco Vona, University of Milan
+- **January 2026** – Starting as Co-Editor at the Review of Environmental Economics and Policy (REEP)
+- **January 2025** – Starting as Co-Editor at JEEM
+
+---
+
+## Contact
+
+Campus Jourdan – École d'Économie de Paris  
+48 Boulevard Jourdan, 75014 Paris, France  
+Email: helene.ollivier [at] psemail.eu
