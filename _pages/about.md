@@ -21,7 +21,7 @@ I completed my PhD in 2010 at the [Economics Department at the École Polytechni
 
 ## News
 
-- We are organizing the inaugural **Paris Environmental Economics Workshop** at PSE. The program is now available.
+- We are organizing the inaugural [**Paris Environmental Economics Workshop**](https://www.parisschoolofeconomics.eu/en/events/paris-environmental-economics-workshop/) at PSE. The program is now available.
 - **October 2025** – Keynote at the Workshop for Young Researchers in Applied Environmental Economics, University of Milan, organized by Francesco Vona.
 - **April 2026** – Keynote at the Women in Environmental Economics Workshop, Venice, organized by CEPR (coordinated by Ludovica Gazze, Andrea La Nauze, and Mar Reguant).
 - **May 2026** – Keynote at the Parisian PhD Seminar on Environmental Economics, organized by PhD students from PSE.
