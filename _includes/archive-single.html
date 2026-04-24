@@ -47,6 +47,10 @@
           {% if post.coauthors %}{{ post.coauthors }} — {% endif %}<em>{{ post.venue }}</em>{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}
         </p>
 
+        {% if post.wpurl %}
+          <p style="margin-top: 0.2em;"><a href="{{ post.wpurl }}" target="_blank" style="font-size: 0.85em;">[Working Paper version]</a></p>
+        {% endif %}
+
         {% if post.excerpt %}
           <details>
             <summary style="cursor: pointer; color: #52adc8;">Abstract</summary>
