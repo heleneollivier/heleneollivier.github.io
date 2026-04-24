@@ -8,6 +8,7 @@ coauthors: "With Jurate Jaraite and Oliwia Kurtyka"
 date: 2022-01-01
 venue: 'Journal of Environmental Economics and Management'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0095069622000547'
+wpurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3760586'
 citation: 'Jaraite, J., Kurtyka, O., and Ollivier, H. (2022). "Take a ride on the (not so) green side." <i>Journal of Environmental Economics and Management</i>.'
 ---
 With Jurate Jaraite and Oliwia Kurtyka.
