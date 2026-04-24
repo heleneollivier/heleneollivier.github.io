@@ -44,7 +44,7 @@
 
       {% else %}
         <p style="margin-top: 0.2em;">
-          {% if post.coauthors %}{{ post.coauthors }} — {% endif %}<em>{{ post.venue }}</em>{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}
+          {% if post.coauthors %}{{ post.coauthors }} — {% endif %}<em>{{ post.venue }}</em>{% if post.date %}{% unless post.venue contains '20' %}, {{ post.date | date: "%Y" }}{% endunless %}{% endif %}
         </p>
 
         {% if post.wpurl %}
