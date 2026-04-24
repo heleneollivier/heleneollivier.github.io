@@ -27,7 +27,6 @@ redirect_from:
 - **HDR** (Habilitation à Diriger des Recherches), 2018
 - **PhD** in Economics, École Polytechnique, 2010  
   Supervisor: Jean-Marc Bourgeon
-- **MSc** in Economics, École Polytechnique
 
 ## Post-doctoral Position
 
