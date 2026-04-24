@@ -33,6 +33,16 @@ redirect_from:
 
 - **Ciriacy-Wantrup Fellow**, Agricultural and Resource Economics Department, UC Berkeley, 2010–2012
 
+## Visiting Positions
+
+- **Oct–Dec 2024** – Visiting Researcher, Economics Department, University of California, Santa Barbara
+- **Summer 2018** – Visiting Researcher, McCourt School of Public Policy, Georgetown University
+- **2015–2016** – Visiting Researcher, Grantham Research Institute on Climate Change and the Environment, London School of Economics
+- **Spring 2015** – Visiting Assistant Professor, Agricultural and Resource Economics Department, University of California, Berkeley
+- **2013–2014** – Affiliated to the Chair of Resource Economics, ETH Zurich
+- **July 2010** – Visiting Researcher, University of Toulouse 1 (LERNA)
+- **July–Aug 2009** – Visiting PhD Student (Prof. Copeland), University of British Columbia, Vancouver
+
 ---
 
 ## Publications
