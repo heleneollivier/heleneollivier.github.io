@@ -1,5 +1,5 @@
 ---
-title: "Export Market Competition and Manufacturing in the Developing World"
+title: "Export Market Competition and Manufacturing in the Developing World: Evidence from the End of the MFA"
 collection: publications
 category: resting
 coauthors: "With Geoffrey Barrows"
