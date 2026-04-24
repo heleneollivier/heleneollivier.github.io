@@ -32,6 +32,11 @@
       {% elsif post.category == 'books' %}
         <p style="margin-top: 0.2em;">{{ post.citation }}</p>
 
+      {% elsif post.category == 'french' or post.category == 'resting' %}
+        <p style="margin-top: 0.2em;">
+          {% if post.coauthors %}{{ post.coauthors }} — {% endif %}<em>{{ post.venue }}</em>{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}
+        </p>
+
       {% else %}
         <p style="margin-top: 0.2em;">
           {% if post.coauthors %}{{ post.coauthors }} — {% endif %}<em>{{ post.venue }}</em>{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}

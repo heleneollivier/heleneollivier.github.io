@@ -90,6 +90,10 @@ publication_category:
     title: 'Publications'
   books:
     title: 'Book Chapters'
+  french:
+    title: 'Publications in French'
+  resting:
+    title: 'Resting'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
