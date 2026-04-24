@@ -1,7 +1,7 @@
 ---
 title: "Export Market Competition and Manufacturing in the Developing World"
 collection: publications
-category: work_in_progress
+category: resting
 permalink: /publication/wip-export-competition-manufacturing
 excerpt: 'With Geoffrey Barrows.'
 date: 2024-12-02
