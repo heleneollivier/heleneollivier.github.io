@@ -43,18 +43,3 @@ redirect_from:
 - **July 2010** – Visiting Researcher, University of Toulouse 1 (LERNA)
 - **July–Aug 2009** – Visiting PhD Student (Prof. Copeland), University of British Columbia, Vancouver
 
----
-
-## Publications
-
-<ul>{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
-
----
-
-## Teaching
-
-<ul>{% for post in site.teaching reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
