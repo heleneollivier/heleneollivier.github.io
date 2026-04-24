@@ -13,11 +13,13 @@
     await mermaid.run({querySelector:'code.language-mermaid'});
 </script>
 
-<!-- Open all external links in a new tab -->
+<!-- Open external links in a new tab, keep internal navigation in same tab -->
 <script>
   document.querySelectorAll('a[href^="http"]').forEach(function(link) {
-    link.setAttribute('target', '_blank');
-    link.setAttribute('rel', 'noopener noreferrer');
+    if (link.hostname !== window.location.hostname) {
+      link.setAttribute('target', '_blank');
+      link.setAttribute('rel', 'noopener noreferrer');
+    }
   });
 </script>
 
