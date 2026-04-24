@@ -34,6 +34,8 @@ I completed my PhD in 2010 at the [Economics Department at the École Polytechni
 
 ## Contact
 
+<img src="/images/PSE_logo.jpg" alt="Paris School of Economics" style="width: 160px; float: right; margin-left: 20px;">
+
 Campus Jourdan – École d'Économie de Paris  
 48 Boulevard Jourdan, 75014 Paris, France  
 Email: helene.ollivier [at] psemail.eu
