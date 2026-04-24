@@ -21,14 +21,12 @@ I completed my PhD in 2010 at the [Economics Department at the École Polytechni
 
 ## News
 
-- We are organizing the inaugural [**Paris Environmental Economics Workshop**](https://www.parisschoolofeconomics.eu/en/events/paris-environmental-economics-workshop/) at PSE. The program is now available.
+- Organization of the inaugural [**Paris Environmental Economics Workshop**](https://www.parisschoolofeconomics.eu/en/events/paris-environmental-economics-workshop/) at PSE with Geoffrey Barrows and Matthew Gordon. The program is now available.
 - **October 2025** – Keynote at the Workshop for Young Researchers in Applied Environmental Economics, University of Milan, organized by Francesco Vona.
 - **April 2026** – Keynote at the Women in Environmental Economics Workshop, Venice, organized by CEPR (coordinated by Ludovica Gazze, Andrea La Nauze, and Mar Reguant).
 - **May 2026** – Keynote at the Parisian PhD Seminar on Environmental Economics, organized by PhD students from PSE.
 - **June 2026** – Keynote at the Nordic Annual Environmental and Resource Economics Conference, Stockholm.
 - **2025–2026** – Planned talks at University of Basel, University of Würzburg, University of Chicago, Mines, and PSAE.
-- **January 2026** – Starting as Co-Editor at the Review of Environmental Economics and Policy (REEP).
-- **January 2025** – Starting as Co-Editor at JEEM.
 
 ---
 
