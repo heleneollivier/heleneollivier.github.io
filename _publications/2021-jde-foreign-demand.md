@@ -8,7 +8,7 @@ coauthors: "With Geoffrey Barrows"
 date: 2021-01-01
 venue: 'Journal of Development Economics'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0304387820301620'
-wpurl: 'https://www.researchgate.net/publication/342803270_Foreign_Demand_Developing_Country_Exports_and_CO2_Emissions_Firm-Level_Evidence_from_India'
+wpurl: 'https://shs.hal.science/halshs-01945848'
 citation: 'Barrows, G. and Ollivier, H. (2021). "Foreign Demand, Developing Country Exports, and CO2 Emissions." <i>Journal of Development Economics</i>.'
 ---
 With Geoffrey Barrows.
