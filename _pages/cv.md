@@ -42,3 +42,16 @@ redirect_from:
 - **July 2010** – Visiting Researcher, University of Toulouse 1 (LERNA)
 - **July–Aug 2009** – Visiting PhD Student (Prof. Copeland), University of British Columbia, Vancouver
 
+## PhD Students Supervision
+
+**Current**
+
+- **Lucas Perez**, «Three Essays on the Economics of Air Pollution and Health,» ENS-PSE–Université Paris 1, since 2022
+- **Mudigonda Sarath Chandra**, «The Impacts of Floods in India: Supply Chain Resilience, Firm Adaptation and Aggregate Consequences,» PSE, since 2024
+
+**Past**
+
+- **Claire Lepault**, «Natural Resources Conservation and Adaptation to Climate Change,» (co-supervision), PSE–École des Ponts, 2020–2024 (position at CIRAD)
+- **Martin Jégard**, «Pollution and Environmental Policies» (co-supervision), PSE–Paris 1, 2018–2022 (postdoc at SLU, Sweden; position at INRAE)
+- **Léo Zabrocki**, «Improving the Design of Studies on the Acute Health Effects of Air Pollution,» PSE–EHESS, 2020–2022 (postdoc at RFF-CMCC EIEE, Italy; position at IGAS)
+
