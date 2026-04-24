@@ -8,6 +8,7 @@ coauthors: "With Antony Millner and Leo Simon"
 date: 2014-01-01
 venue: 'Journal of Public Economics'
 paperurl: 'http://www.sciencedirect.com/science/article/pii/S0047272714001935'
+wpurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2463149'
 citation: 'Millner, A., Ollivier, H., and Simon, L. (2014). "Policy Experimentation, Political Competition, and Heterogeneous Beliefs." <i>Journal of Public Economics</i>.'
 ---
 With Antony Millner and Leo Simon.
