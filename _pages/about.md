@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Professor at [Paris School of Economics (PSE)](http://www.parisschoolofeconomics.eu/) and a Research Fellow at the [CNRS](http://www.cnrs.fr/) (Centre National de la Recherche Scientifique).
+I am a Professor at [Paris School of Economics (PSE)](http://www.parisschoolofeconomics.eu/) and a Research Director at the [CNRS](http://www.cnrs.fr/) (Centre National de la Recherche Scientifique).
 
 I am Co-Editor at the [Journal of Environmental Economics and Management (JEEM)](https://www.sciencedirect.com/journal/journal-of-environmental-economics-and-management) (from January 2025) and Co-Editor at the [Review of Environmental Economics and Policy (REEP)](https://www.journals.uchicago.edu/toc/reep/current) (from January 2026). From 2020 to 2024, I served as Associate Editor at [Environment and Development Economics](https://www.cambridge.org/core/journals/environment-and-development-economics).
 
@@ -21,12 +21,10 @@ I completed my PhD in 2010 at the [Economics Department at the École Polytechni
 
 ## News
 
-- Organization of the inaugural [**Paris Environmental Economics Workshop**](https://www.parisschoolofeconomics.eu/en/events/paris-environmental-economics-workshop/) at PSE with Geoffrey Barrows and Matthew Gordon. The program is now available.
-- **October 2025** – Keynote at the Workshop for Young Researchers in Applied Environmental Economics, University of Milan, organized by Francesco Vona.
-- **April 2026** – Keynote at the Women in Environmental Economics Workshop, Venice, organized by CEPR (coordinated by Ludovica Gazze, Andrea La Nauze, and Mar Reguant).
-- **May 2026** – Keynote at the Parisian PhD Seminar on Environmental Economics, organized by PhD students from PSE.
-- **June 2026** – Keynote at the Nordic Annual Environmental and Resource Economics Conference, Stockholm.
-- **2025–2026** – Planned talks at University of Basel, University of Würzburg, University of Chicago, Mines, and PSAE.
+- Congratulations to Lucas Perez for defending his PhD in June 2026
+- I have been promoted to Research Director at the CNRS this year
+- Planned keynote at Mannheim Conference on Energy and the Environment in May 2027
+- Planned visit at McMaster University in April 2027
 
 ---
 
