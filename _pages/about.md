@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Professor at [Paris School of Economics (PSE)](http://www.parisschoolofeconomics.eu/) and a Research Director at the [CNRS](http://www.cnrs.fr/) (Centre National de la Recherche Scientifique).
+I am a Professor at [Paris School of Economics (PSE)](http://www.parisschoolofeconomics.eu/) and a Senior Researcher (directrice de recherche) at the [CNRS](http://www.cnrs.fr/) (Centre National de la Recherche Scientifique).
 
 I am Co-Editor at the [Journal of Environmental Economics and Management (JEEM)](https://www.sciencedirect.com/journal/journal-of-environmental-economics-and-management) (from January 2025) and Co-Editor at the [Review of Environmental Economics and Policy (REEP)](https://www.journals.uchicago.edu/toc/reep/current) (from January 2026). From 2020 to 2024, I served as Associate Editor at [Environment and Development Economics](https://www.cambridge.org/core/journals/environment-and-development-economics).
 
@@ -22,7 +22,7 @@ I completed my PhD in 2010 at the [Economics Department at the École Polytechni
 ## News
 
 - Congratulations to Lucas Perez for defending his PhD in June 2026
-- I have been promoted to Research Director at the CNRS this year
+- I have been promoted to Senior Researcher (directrice de recherche) at the CNRS this year
 - Planned keynote at Mannheim Conference on Energy and the Environment in May 2027
 - Planned visit at McMaster University in April 2027
 

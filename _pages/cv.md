@@ -14,7 +14,7 @@ redirect_from:
 ## Current Positions
 
 - **Professor**, Paris School of Economics (PSE)
-- **Research Director**, CNRS (Centre National de la Recherche Scientifique)
+- **Senior Researcher** (directrice de recherche), CNRS (Centre National de la Recherche Scientifique)
 
 ## Editorial Roles
 
