@@ -14,7 +14,7 @@ redirect_from:
 ## Current Positions
 
 - **Professor**, Paris School of Economics (PSE)
-- **Research Fellow**, CNRS (Centre National de la Recherche Scientifique)
+- **Research Director**, CNRS (Centre National de la Recherche Scientifique)
 
 ## Editorial Roles
 
@@ -46,11 +46,11 @@ redirect_from:
 
 **Current**
 
-- **Lucas Perez**, «Three Essays on the Economics of Air Pollution and Health,» ENS-PSE–Université Paris 1, since 2022
 - **Mudigonda Sarath Chandra**, «The Impacts of Floods in India: Supply Chain Resilience, Firm Adaptation and Aggregate Consequences,» PSE, since 2024
 
 **Past**
 
+- **Lucas Perez**, «Three Essays on the Economics of Air Pollution and Health,» (co-supervision with Geoffrey Barrows), ENS-PSE, 2022–2026 (defense June 22, 2026)
 - **Claire Lepault**, «Natural Resources Conservation and Adaptation to Climate Change,» (co-supervision), PSE–École des Ponts, 2020–2024 (position at CIRAD)
 - **Martin Jégard**, «Pollution and Environmental Policies» (co-supervision), PSE–Paris 1, 2018–2022 (postdoc at SLU, Sweden; position at INRAE)
 - **Léo Zabrocki**, «Improving the Design of Studies on the Acute Health Effects of Air Pollution,» PSE–EHESS, 2020–2022 (postdoc at RFF-CMCC EIEE, Italy; position at IGAS)
