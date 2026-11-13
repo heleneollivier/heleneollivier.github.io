@@ -21,7 +21,7 @@ I completed my PhD in 2010 at the [Economics Department at the École Polytechni
 
 ## News
 
-- Congratulations to Lucas Perez for defending his PhD in June 2026
+- Paper conditionally accepted at the Review of Economics and Statistics: "Production Function Estimation with Multi-Market Firms"
 - I have been promoted to Senior Researcher (directrice de recherche) at the CNRS this year
 - Planned keynote at Mannheim Conference on Energy and the Environment in May 2027
 - Planned visit at McMaster University in April 2027
